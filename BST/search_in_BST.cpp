@@ -16,3 +16,4 @@ public:
         }
     }
 };
+important ques of bst 
