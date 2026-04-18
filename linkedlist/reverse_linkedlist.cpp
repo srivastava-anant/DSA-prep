@@ -16,3 +16,5 @@ public:
         return prev;
     }
 };
+change of link 
+we first need to secure the first link then change the previous and after that increase the pointer 
