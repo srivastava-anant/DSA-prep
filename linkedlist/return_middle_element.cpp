@@ -11,3 +11,4 @@ public:
 
     }
 };
+slow fast approach
