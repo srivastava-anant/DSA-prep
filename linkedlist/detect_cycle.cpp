@@ -17,3 +17,4 @@ public:
         return false; // no cycle
     }
 };
+if cycle is present then slow and fast will meet at some point 
