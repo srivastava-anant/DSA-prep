@@ -31,3 +31,5 @@ public:
         return dummy->next;
     }
 };
+confusing question 
+
