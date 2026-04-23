@@ -37,4 +37,4 @@ public:
         return q1.empty();
     }
 };
-
+front pointer work 
