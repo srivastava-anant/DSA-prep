@@ -35,3 +35,4 @@ public:
         return ans;
     }
 };
+insert everything in the stack
