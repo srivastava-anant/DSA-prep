@@ -34,3 +34,4 @@ public:
         return res.empty() ? "/" : res;
     }
 };
+simplified question 
