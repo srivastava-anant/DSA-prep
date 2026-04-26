@@ -8,3 +8,4 @@ public:
         return st.size() == (1 << k);
     }
 };
+potd of leetcode 
