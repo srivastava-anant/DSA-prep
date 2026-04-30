@@ -17,4 +17,5 @@ public:
         return false; // no cycle
     }
 };
-if cycle is used to do it : 
+if cycle is used to do it :
+easyyyy problem need to do it again 
